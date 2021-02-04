@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
    EditText t1,t2,t3;
     public String sname="l",sid="l",saddr="l",gender="l",nation="l";
    public String ss="Test";
+   int=10;
 
     Button b1,b2;
     String data1[]= {"Choose"};
